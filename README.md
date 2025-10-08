@@ -4,6 +4,7 @@ We are currently working on a project called AppleClone, which is a recreation o
 
 # Folder Structure
 
+```
 appleStart/
 │
 ├── css/
@@ -22,4 +23,4 @@ appleStart/
 │   └── apple-home-page-mobile-design.jpeg
 │
 ├── index.html              # Main HTML file
-└── README.md               # Project documentation
+└── README.md               # Project documentation```
