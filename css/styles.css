@@ -1,0 +1,17 @@
+
+/*=== Fourth Section ===*/
+/* common product styles */
+.product {
+  padding: 40px 5px 30px;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-color: #fafafa;
+  height: 510px;
+  background-size: auto 450px;
+}
+.product .font-size-2 {
+  font-size: clamp(1.6rem, 4vw, 2.6rem); 
+}
+.product .font-size-4 {
+  font-size: clamp(0.95rem, 2.3vw, 1.3rem); 
+}
