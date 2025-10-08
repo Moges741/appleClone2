@@ -74,9 +74,12 @@ git push -u origin <your-branch-name>
 - CSS3 & Bootstrap — Styling and responsiveness
 - JavaScript & jQuery — Interactivity
 
-## Design Preview
+# Design Preview
 
-<p float="left">
-  <img src="https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-desktop-design.jpeg" width="48%" height="100%"/>
-  <img src="https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-mobile-design.jpeg" width="30%" height="100%"/>
-</p>
+## Design References
+
+| Desktop View | Mobile View |
+|--------------|------------|
+| ![Desktop](https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-desktop-design.jpeg) | ![Mobile]([assets/images/mobile-macbook.png](https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-mobile-design.jpeg)) |
+
+
