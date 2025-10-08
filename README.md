@@ -2,7 +2,8 @@
 
 We are currently working on a project called AppleClone, which is a recreation of the official Apple website. The main goal of this project is to practice Git and GitHub collaboration by working together as a team with Evangadi Tech members.
 
-# Folder Structure
+
+# 📁Folder Structure
 
 ```
 appleStart/
@@ -23,4 +24,17 @@ appleStart/
 │   └── apple-home-page-mobile-design.jpeg
 │
 ├── index.html              # Main HTML file
-└── README.md               # Project documentation```
+└── README.md               # Project documentation
+```
+#Team and Tasks
+
+| Column 1 Header | Column 2 Header | Column 3 Header |
+|-----------------|----------------|----------------|
+| Row 1 Col 1     | Row 1 Col 2    | Row 1 Col 3    |
+| Row 2 Col 1     | Row 2 Col 2    | Row 2 Col 3    |
+
+
+
+
+
+
