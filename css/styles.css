@@ -1,0 +1,162 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+img {
+  max-width: 100%;
+}
+
+body {
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Header styling */
+
+.header-wrapper {
+  background-color: black;
+  color: white;
+  font-weight: 200;
+  font-size: 0.75em;
+}
+
+.header-wrapper ul {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  list-style: none;
+}
+.internal-wrapper {
+  width: 980px;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+.header-links-wrapper li {
+  list-style: none;
+}
+.header-wrapper .header-links-wrapper ul li a {
+  text-decoration: none;
+  color: white;
+}
+.header-wrapper .header-links-wrapper ul li {
+  display: inline-block;
+  padding: 14px 0px 8px;
+  height: 25px;
+  opacity: 0.8;
+}
+.header-wrapper .header-links-wrapper ul li:hover {
+  opacity: 1;
+}
+.logo-link,
+.search-link,
+.cart-link {
+  width: 18px;
+  display: block;
+}
+.header-wrapper .header-links-wrapper ul li .logo-link {
+  padding: 12px 0px 10px;
+}
+.header-wrapper .header-links-wrapper ul li .search-link {
+  padding: 14px 0px 8px;
+}
+.header-wrapper .header-links-wrapper ul li .cart-link {
+  padding: 12px 0px 10px;
+}
+
+/* end of header section */
+
+/*  starting footer Styling*/
+
+.footer-wrapper {
+  background-color: #f5f5f5;
+  color: #1d1d1d;
+  font-size: 0.65em;
+}
+.upper-text-container,
+.footer-links-wrapper,
+.my-apple-wrapper,
+.copyright-wrapper {
+  width: 980px;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+
+.upper-text-container {
+  border-bottom: 1px solid #2d2d2d;
+  color: #868686;
+  padding: 17px 0 20px;
+}
+.upper-text-container p {
+  padding: 6px;
+}
+.upper-text-container a {
+  text-decoration: none;
+  color: #515154;
+}
+.upper-text-container a:hover {
+  text-decoration: underline;
+}
+.footer-links-wrapper {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  padding: 20px;
+}
+.footer-wrapper ul li {
+  padding: 5px 0;
+  font-size: 0.9em;
+}
+.footer-wrapper h3 {
+  font-size: 0.9em;
+}
+.footer-links-wrapper li {
+  color: #515154;
+  text-decoration: none;
+  list-style: none;
+}
+.footer-links-wrapper li:hover {
+  color: #515154;
+  text-decoration: underline;
+}
+.my-apple-wrapper {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #2d2d2d;
+  margin-bottom: 8px;
+}
+.copyright-wrapper {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  padding: 10px 0 18px;
+}
+.footer-links-terms ul li {
+  display: inline-block;
+  padding: 0 5px;
+  border-right: 1px solid #ccc;
+}
+.footer-links-terms ul li:last-child {
+  border-right: 0px;
+}
+.footer-links-terms ul li a {
+  text-decoration: none;
+  color: #515154;
+}
+.footer-links-terms ul li a:hover {
+  text-decoration: underline;
+}
+.footer-country {
+  display: inline-block;
+}
+.flag-wrapper {
+  display: inline-block;
+  vertical-align: middle;
+}
+.footer-country-name {
+  display: inline-block;
+  vertical-align: top;
+}
+.footer-country-name:hover {
+  text-decoration: underline;
+}
+
+/* end of footer section */
