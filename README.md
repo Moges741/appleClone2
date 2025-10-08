@@ -78,6 +78,16 @@ git push -u origin <your-branch-name>
 
 | Desktop View | Mobile View |
 |--------------|------------|
-| ![Desktop](https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-desktop-design.jpeg) | ![Mobile](https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-mobile-design.jpeg)) |
+| ![Desktop](https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-desktop-design.jpeg) | ![Mobile](https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-mobile-design.jpeg) |
 
+
+## Our Team
+Developed collaboratively by our Evangadi Web Development Group.
+
+### Group Leader: [Moges Sisay](https://github.com/Moges741)
+### Collaborators
+- [Hana](https://github.com/Hana-Wondie)
+- [Seblewengel](https://github.com/Seble-noli)
+- [Yoseph](https://github.com/yoseph2025)
+- [Simerson](https://github.com/simersonsime)
 
