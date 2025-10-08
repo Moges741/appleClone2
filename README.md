@@ -26,15 +26,15 @@ appleStart/
 ├── index.html              # Main HTML file
 └── README.md               # Project documentation
 ```
-#Team and Tasks
+# 💻Team Category
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
-|-----------------|----------------|----------------|
-| Row 1 Col 1     | Row 1 Col 2    | Row 1 Col 3    |
-| Row 2 Col 1     | Row 2 Col 2    | Row 2 Col 3    |
-
-
-
-
+|    Section    | Branch Name         |
+|---------------|---------------------|
+| Header        | ```header```        |
+| First-Section | ```Mac-book pro```  |
+| second-section| ```iphone-11 pro``` |
+| Third-section | ```iPhone-11```     |
+| fourth-section| ```watch and card```|
+| footer-section| ```footer```        |
 
 
