@@ -77,6 +77,6 @@ git push -u origin <your-branch-name>
 ## Design Preview
 
 <p float="left">
-  <img src="https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-desktop-design.jpeg" width="45%" />
-  <img src="https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-mobile-design.jpeg" width="30%" />
+  <img src="https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-desktop-design.jpeg" width="48%" height="100%"/>
+  <img src="https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-mobile-design.jpeg" width="30%" height="100%"/>
 </p>
