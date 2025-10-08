@@ -77,6 +77,6 @@ git push -u origin <your-branch-name>
 ## Design Preview
 
 <p float="left">
-  <img src=""C:\Users\Pc\OneDrive\Desktop\EVANGADI\Phase-I\Week-6\AppleBootstrapProject\Resources\apple-responsive-designs-content-1741610798165\apple-responsive-designs-updated\apple-home-page-desktop-design.jpeg"" width="45%" />
+  <img src="https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-desktop-design.jpeg" width="45%" />
   <img src=""C:\Users\Pc\OneDrive\Desktop\EVANGADI\Phase-I\Week-6\AppleBootstrapProject\Resources\apple-responsive-designs-content-1741610798165\apple-responsive-designs-updated\apple-home-page-mobile-design.jpeg"" width="30%" />
 </p>
