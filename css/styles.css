@@ -1,3 +1,23 @@
+/* second section  starts here */
+.iphone-section {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 450px;
+}
+@media (min-width: 768px) {
+  .iphone-section {
+    height: 600px;
+  }
+}
+.second-section {
+  background-image: url("../images/home/iphone11-pro-bg.jpg");
+}
+.second-section .links a:hover {
+  color: #fff;
+}
+
+/* second section ends here */
 
 /*=== Fourth Section ===*/
 /* common product styles */
