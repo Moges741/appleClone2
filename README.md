@@ -76,10 +76,8 @@ git push -u origin <your-branch-name>
 
 # Design Preview
 
-## Design References
-
 | Desktop View | Mobile View |
 |--------------|------------|
-| ![Desktop](https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-desktop-design.jpeg) | ![Mobile]([assets/images/mobile-macbook.png](https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-mobile-design.jpeg)) |
+| ![Desktop](https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-desktop-design.jpeg) | ![Mobile](https://github.com/Moges741/appleClone2/blob/main/images/apple-home-page-mobile-design.jpeg)) |
 
 
