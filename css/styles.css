@@ -1,3 +1,20 @@
+/*=== First Section ===*/
+.first-section {
+  background-color: #fafafa;
+}
+a {
+  text-decoration: none;
+}
+.links a::after {
+  content: "\f105";
+  font-family: "FontAwesome";
+  padding: 0 5px;
+  margin-right: 10px;
+}
+.links a:hover {
+  color: #000;
+}
+
 /* third section starts here */
 .third-section {
   background-image: url("../images/home/iphone11-bg.jpg");
