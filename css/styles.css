@@ -216,3 +216,34 @@ a {
 .product .font-size-4 {
   font-size: clamp(0.95rem, 2.3vw, 1.3rem); 
 }
+/* separate products */
+.product-1 {
+  background-image: url("../images/home/watch-series-5.jpg");
+}
+.product-2 {
+  background-image: url("../images/home/apple-card.jpg");
+}
+.product-3 {
+  background-image: url("../images/home/apple-tv-background.jpg");
+}
+.product-3 a {
+  color: #0000EE;
+}
+.product-3 a::after {
+  content: "\f144";
+  font-family: "FontAwesome";
+}
+.product-4 {
+  background-image: url("../images/home/air-pods.jpg");
+  background-color: #000;
+  color: #fff;
+  background-size: auto 320px;
+}
+.product-5 {
+  background-image: url("../images/home/mac-laptop.jpg");
+  background-size: auto 310px;
+}
+.product-6 {
+  background-image: url("../images/home/new-ipad.jpg");
+  background-size: auto 470px;
+}
