@@ -10,6 +10,7 @@
   background-size: cover;
   height: 450px;
 }
+
 @media (min-width: 768px) {
   .iphone-section {
     height: 600px;
