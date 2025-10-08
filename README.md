@@ -74,7 +74,7 @@ git push -u origin <your-branch-name>
 - CSS3 & Bootstrap — Styling and responsiveness
 - JavaScript & jQuery — Interactivity
 
-# Design Preview
+# 📷Design Preview
 
 | Desktop View | Mobile View |
 |--------------|------------|
