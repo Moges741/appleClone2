@@ -95,4 +95,4 @@ Developed collaboratively by our Evangadi Web Development Group.
 
 I deployed the page using github for free... Thank you
 
-[Check AppleClonel](https://moges741.github.io/appleClone2/)
+[Check AppleClone](https://moges741.github.io/appleClone2/)
