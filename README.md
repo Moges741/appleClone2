@@ -91,3 +91,8 @@ Developed collaboratively by our Evangadi Web Development Group.
 - [Yoseph](https://github.com/yoseph2025)
 - [Simerson](https://github.com/simersonsime)
 
+## 👍Deployment
+
+I deployed the page using github for free... Thank you
+
+[Check AppleClonel](https://moges741.github.io/appleClone2/)
